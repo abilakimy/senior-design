@@ -1,2 +1,1 @@
-# senior-design
-Smart Fridge
+This is a Development of a Smart Refrigerator project I did as a college senior for the Senior Design Project (ECE491, ECE492, ECE493) courses at Drexel University. The goal of this project was to design a system that allows the consumers to reduce the amount of food wasted due to abandonment in the refrigerator by notifying them of food items that are close to their expiration date.
